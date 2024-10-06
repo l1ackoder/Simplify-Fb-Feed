@@ -13,3 +13,8 @@ Installation:
 - Install the Tampermonkey extension.
 - Click on Install
 - Done.
+
+---
+
+<img src="https://github.com/l1ackoder/Simplify-Fb-Feed/blob/main/1.png?raw=true">
+<img src="https://github.com/l1ackoder/Simplify-Fb-Feed/blob/main/2.png?raw=true">
