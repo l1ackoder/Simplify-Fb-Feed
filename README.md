@@ -1,3 +1,5 @@
+Installation Link: https://greasyfork.org/en/scripts/511647-simplify-fb-feed
+
 Simplify Facebook Feed - Hide Facebook Top Bar Icons
 
 Tired of the clutter on Facebook's interface? This user-friendly Tampermonkey script hides the top bar elements that often distract you from what matters most—your news feed and interactions!
